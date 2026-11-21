@@ -1,0 +1,6 @@
+{
+  "name": "AI CyberShield",
+  "description": "Full-stack cybersecurity command center with real phishing URL detection, breach-aware password auditing, AI threat analysis, and live security alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
